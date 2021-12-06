@@ -39,3 +39,12 @@ const serverErrorCode = StatusCodes.error.server.INTERNAL_SERVER_ERROR;
 const statusText = StatusCodes.statusText(400);
 // => statusText = 'Bad Request'
 // mapped from nodejs http.STATUS_CODES
+```
+
+## Information
+
+Status codes from (except 509):
+<https://developer.mozilla.org/en-US/docs/Web/HTTP/Status>
+  
+509 Bandwith Limit Exceeded added to match nodejs http.STATUS_CODES
+<https://en.wikipedia.org/wiki/List_of_HTTP_status_codes#:~:text=509%20Bandwidth%20Limit,of%20customers.%5B75%5D>
