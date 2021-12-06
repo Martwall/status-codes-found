@@ -1,0 +1,31 @@
+{
+  "name": "status-codes-found",
+  "version": "1.0.0",
+  "description": "HTTP status code constants from mdn and nodejs' http status codes. ",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Martwall/status-codes-found.git"
+  },
+  "keywords": [
+    "http",
+    "HttpStatus",
+    "status",
+    "node",
+    "mdn",
+    "codes",
+    "constants"
+  ],
+  "author": "Martin Eckerwall",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Martwall/status-codes-found/issues"
+  },
+  "homepage": "https://github.com/Martwall/status-codes-found#readme",
+  "devDependencies": {
+    "@types/node": "^16.11.11"
+  }
+}
