@@ -1,6 +1,6 @@
 {
   "name": "status-codes-found",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "HTTP status code constants from mdn and Node.js http status codes.",
   "main": "index.ts",
   "scripts": {
