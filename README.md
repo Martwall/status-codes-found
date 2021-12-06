@@ -1,6 +1,6 @@
 # status-codes-found
 
-HTTP status code constants from mdn and nodejs' http status codes.
+HTTP status code constants from mdn and Node.js http status codes.
 Types included.
 
 ## Installation
