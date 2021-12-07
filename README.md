@@ -1,5 +1,7 @@
 # status-codes-found
 
+[![Coverage Status](https://coveralls.io/repos/github/Martwall/status-codes-found/badge.svg?branch=main)](https://coveralls.io/github/Martwall/status-codes-found?branch=main)
+
 HTTP status code constants from mdn and Node.js http status codes.
 
 Types included.
