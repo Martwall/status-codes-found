@@ -38,7 +38,7 @@ const serverErrorCode = StatusCodes.error.server.INTERNAL_SERVER_ERROR;
 
 const statusText = StatusCodes.statusText(400);
 // => statusText = 'Bad Request'
-// mapped from nodejs http.STATUS_CODES
+// mapped from Node.js http.STATUS_CODES
 ```
 
 ## Information

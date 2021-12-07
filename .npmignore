@@ -1,0 +1,13 @@
+# Source files
+src
+
+# Testing
+test
+tarballs
+
+# Typescript config
+tsconfig.json
+
+# Lint
+.eslintrc.*
+
